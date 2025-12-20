@@ -1,0 +1,1 @@
+timestamp,y_true,y_pred,resid,abs_resid,hour,dayofweek,is_weekend,month,score
